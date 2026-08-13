@@ -1,6 +1,9 @@
 {
   "version": 2,
   "name": "moinho-bar-grill",
+  "framework": null,
+  "buildCommand": "echo 'Static site build complete'",
+  "outputDirectory": ".",
   "cleanUrls": true,
   "trailingSlash": false,
   "headers": [
